@@ -5,4 +5,4 @@ Collects the dataset photos by custom defining the size of the dataset.
 
 
 The model takes the given size of dataset by taking continuous photos of the person or object.
-The model recognizes the person after the training in real-time cam.
+The model recognizes the person in real-time cam after the training.
